@@ -1,0 +1,10 @@
+matplotlib>=3.10.0
+notebook>=6.5.7
+numpy>=2.2.4
+opencv-python>=4.11.0.86
+tensorboard>=2.18.0
+tensorboard-data-server>=0.7.2
+tensorflow>=2.18.0
+tensorflow-datasets>=4.9.8
+tensorflow-model-optimization==0.8.0
+tf_keras>=2.18.0
